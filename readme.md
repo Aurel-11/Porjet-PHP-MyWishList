@@ -2,8 +2,8 @@
 
 ## C'est quoi ?
 
-MyWishList.app est un projet universitaire composé de :
-+ **Pierre Marcolet** *(AlasDiablo et lIotaMiu(Compte utilisé suite a des problèmes sous windows))*
+MyWishList.app est un projet universitaire réalisé par :
++ **Pierre Marcolet** *(AlasDiablo)*
 + **Lucas Burté** *(lucasburte)*
 + **Aurélien Rethiers** *(Aurel-11)*
 + **Émilien Visentini** *(Safyrus)*
@@ -24,31 +24,6 @@ MyWishList.app est un projet universitaire composé de :
     host=VotreIp
     database=VotreBaseDeDonnées
     charset=utf-8
-    ```
-
-## Lien d'utilisation
-
-+ [Webetu](https://bit.ly/2QSRep8), requiert un compte de l'utiliversité
-+ Statut du Deploiement:
-    + [x] Site web
-    + [x] Base de données
-    + [x] Deploiement
-+ Comptes utilisateurs pour le professeur
-    ```
-    username 1      : professeur
-    mots de passe 1 : php
-  
-    username 2      : Behemote
-    mots de passe 2 : godOfTheSea
-  
-    username 3      : BraveHurricane
-    mots de passe 3 : BCRYPTforever
-  
-    username 4      : Didier
-    mots de passe 4 : cMoiDidier
-  
-    username 5      : Doriant
-    mots de passe 5 : horribleFruit
     ```
 
 ## Droits et utilisation
