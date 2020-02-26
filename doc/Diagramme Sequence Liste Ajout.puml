@@ -1,0 +1,19 @@
+@startuml
+
+title Diagramme de sequence - Ajoute dans une liste
+
+participant Index.php as index
+participant ControleurListe as CListe
+participant ModelListe as MListe
+participant VueListe as VListe
+
+-> index: GET "URL"
+index -> CListe: envoie les infos demandées et données par le client
+CListe -> MListe: ajoute les infos données
+CListe <-- MListe: envoie des données mises à jour
+CListe -> VListe: envoie les données traitées pour affichage
+CListe <-- VListe: données mises en page dans une chaîne de caractère correspondant à l'HTML
+index <-- CListe: donner la page à afficher
+<-- index: envoie la page au client
+
+@enduml
