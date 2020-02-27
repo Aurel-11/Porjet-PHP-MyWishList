@@ -6,12 +6,10 @@ src/conf/conf.ini
 
 # composer
 composer.lock
-composer.json
 
 # composer dependencies
 vendor
 
 #htacess
-.htaccess
 
 .DS_Store
