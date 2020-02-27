@@ -58,7 +58,7 @@ NAV;
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>MyWishList$title</title>
-    <link href ="/css/style.css" rel="stylesheet">
+    <link href ="/Projet-PHP-MyWishList/css/style.css" rel="stylesheet">
 </head>
 <body>
     <header id="header">
